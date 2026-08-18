@@ -20,3 +20,6 @@ UXUI - 스케치
 ChatGPT, Gemini, Claude
 피그마
 VSCode - 텍스트 에디터(html, css, js)
+
+
+
